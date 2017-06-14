@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup as soup
 from urllib.request import urlopen as uReq
 
-# fazer um scrap da primeira página de teclados gamers na newegg.
+# fazer um scrap da primeira pagina de teclados gamers na newegg.
 my_url = 'https://www.newegg.com/Gaming-Keyboards/SubCategory/ID-3523?Tid=160908'
 
 # abrindo a conexao e retornando a pagina!
